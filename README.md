@@ -1,5 +1,4 @@
-# Human Activity Recognition
+# Human Activity Recognition for management of Lower Back Pain
 
-Lower back pain is an increasingly common, expensive, and debilitating condition that affects all age groups. One study estimated lower back pain to be the leading cause of disability globally, with more than 83 million years of cumulative global burden. The inspiration for the project is drawn from the work of Sani, Wiratunga, et al. on the SELFBACK system that identifies physical activities from accelerometer data to help manage lower back pain.
+Lower back pain is an increasingly common, expensive, and debilitating condition that affects all age groups. Inspired by the works of Sani, Wiratunga, et al. on the SELFBACK system for Lower Back Pain management, my objective through this project is to develop a subject-indepent (unseen user) classifier that identifies four physical activity types (sedentary, walking, ascending/descending stairs and running) through a wrist-bound accelerometer's readings. The dataset was compiled by the team of the original paper and sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/selfBACK).
 
-The dataset was compiled by the team of the original paper, and sourced from the UCI Machine Learning Repository. My objective through this project is to develop a subject independent (unseen user) classifier that identifies physical activity based on an accelerometer’s readings.
