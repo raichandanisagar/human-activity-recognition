@@ -26,4 +26,4 @@ The key packages used in this project are the following<sup>*</sup>:
 
 
 
-<sup>*</sup> Check file environment.yml for complete configuration and package dependencies
+<sup>*</sup> _Check file environment.yml for complete configuration and package dependencies_
