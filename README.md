@@ -11,4 +11,4 @@ The project is built in Python 3.10.5 and repository organization is as follows:
 5. `src/` - This directory contains all the code for: data wrangling, EDA and feature engineering in `eda-ftrengg.ipynb`; group based splittinbg, preprocessing and model development in `model-development.ipynb`; and model evaluations, result visualiztion and feature importances in `model-evaluation.ipynb`.
 
 
-The key packages used in this project are the following$^{*}$
+The key packages used in this project are the following<sup>*</sup>
