@@ -1,4 +1,4 @@
-name: mlsemproj
+name: har-env
 channels:
   - duartexyz
   - anaconda
